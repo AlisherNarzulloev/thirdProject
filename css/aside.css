@@ -45,10 +45,6 @@
 }
 
 @media (max-width: 390px) {
-  .main-aside {
-    width: 100%;
-  }
-
   .mt-xs {
     margin-top: 2rem !important;
   }
