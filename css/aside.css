@@ -38,12 +38,6 @@
   }
 }
 
-@media (max-width: 445px) {
-  .main-aside {
-    width: 100%;
-  }
-}
-
 @media (max-width: 390px) {
   .mt-xs {
     margin-top: 2rem !important;
